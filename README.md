@@ -9,8 +9,8 @@ Para correr el proyecto es necesario crear el archivo `.env` y setear las creden
 
 ## Vistas nuevas
 
-- [localhost:8080/login]: Login de usuario.
-- [localhost:8080/register]: Registro de usuario.
+- [localhost:8080/login](localhost:8080/login): Login de usuario.
+- [localhost:8080/register](localhost:8080/register): Registro de usuario.
 
 ## Vistas existentes
 
