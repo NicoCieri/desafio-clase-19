@@ -7,6 +7,9 @@ Para correr el proyecto es necesario crear el archivo `.env` y setear las creden
 - `npm start`: Levanta el proyecto en el puerto 8080.
 - `npm run dev`: Levanta el proyecto y actualiza el servidor con cada cambio guardado.
 
+## Demo
+https://github.com/NicoCieri/desafio-clase-19/assets/14900103/70aeabb0-1876-42ae-a18f-60e24a32b929
+
 ## Vistas nuevas
 
 - [localhost:8080/login](http://localhost:8080/login): Login de usuario.
@@ -16,8 +19,6 @@ Para correr el proyecto es necesario crear el archivo `.env` y setear las creden
 
 - [localhost:8080/products](http://localhost:8080/products): Listado de productos.
 - `localhost:8080/carts/:cartId`: Listado de items del cart seleccionado.
-
-https://github.com/NicoCieri/node-segunda-entrega/assets/14900103/20e188b2-dde1-4b9b-89fc-a7a0b33c483e
 
 ## Endpoints
 
